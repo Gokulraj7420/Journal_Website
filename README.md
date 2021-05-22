@@ -1,1 +1,1 @@
-# shreya-nandigam.github.io
+# Journal_Website.github.io
